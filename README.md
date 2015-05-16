@@ -1,5 +1,5 @@
-NumberGuesser
-=============
+Number Guesser
+==============
 This is a little 'game' in which the computer generates a number and the player has to guess what that number is. 
 I plan to add a mode where the computer guesses based off a users input.
 
