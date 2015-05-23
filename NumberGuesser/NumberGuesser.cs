@@ -1,5 +1,3 @@
-using System;
-
 namespace NumberGuesser
 {
 	public enum GuessValue 
@@ -30,7 +28,7 @@ namespace NumberGuesser
 		{
 			if (_Number <= MAX_VAL && _Number >= MIN_VAL) 
 			{
-				this.number = _Number;
+				number = _Number;
 			}
 		}
 
